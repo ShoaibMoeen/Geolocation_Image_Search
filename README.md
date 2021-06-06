@@ -1,9 +1,9 @@
 # Geolocation_Image_Search
 
-# Description
+## Description
 Geolocation Image search is build on python django and uses the flicker api for image search. You can search the images by specifying the longitude and latitude and the radius. All the images in that radius will be searched and displayed. It also provide the authentication functionality and user profile.
 
-# How to run on local Machine
+## How to run on local Machine
 You can run the project of your local machine by follwing these steps:
 1. Install python>=3.7
 2. Download Anaconda Prompt
